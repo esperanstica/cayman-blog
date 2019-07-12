@@ -7,11 +7,21 @@
 #
 layout: home
 ---
+ 
+The aim of this site is providing useful information to answer this question.
+To illustrate why this is important, let us look at the following classic
+story:
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+There was a Turkey, a cautious one. Each day it used to check if humans 
+show signs of wanting to eat it. As time passed by, it started to trust 
+its owners because these show sign; one day they did eat it. 
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+This classic story nicely illustrates how the understanding one attains
+during life can fail us. It is not hard to find examples of such situation
+at a personal level and within groups: wars, economical crisis, 
+technological and scientific breakthroughts, someone behaving differently 
+than what was expected....
 
-Have a look at the Github page for more information.
+At 
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+
