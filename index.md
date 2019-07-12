@@ -18,10 +18,14 @@ its owners because these show sign; one day they did eat it.
 
 This classic story nicely illustrates how the understanding one attains
 during life can fail us. It is not hard to find examples of such situation
-at a personal level and within groups: wars, economical crisis, 
-technological and scientific breakthroughts, someone behaving differently 
-than what was expected....
+at a personal level and within groups, e.g. wars, economic crisis, 
+technological breakthroughts, people behaving differently 
+than what was expected, etc.
 
-At 
+This is why it is important to have strategies that do not 
+really solely on assuming a perfect understanding, and how to deal 
+with uncertainties, to have a look a 
+
+
 
 
