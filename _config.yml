@@ -2,8 +2,8 @@ title: Esperanstica
 description: How to live happily in a world we do not understand
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+#baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "tps://github.com/esperanstica" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
@@ -14,10 +14,10 @@ cayman-blog:
 theme: jekyll-theme-cayman
 
 # social
-author: "Lore Pirri"
-image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+#author: "R"
+#image: /thumbnail-jumbo.png
+#twitter:
+#  username: lorepirri
 
 plugins:
   - jekyll-target-blank
