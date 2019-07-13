@@ -9,12 +9,9 @@ layout: home
 ---
 
 This non-profit organization aims to provide useful information to answer this question.
-Within which context you ask. The point is how  
-to deal with problems that have some level of undertainty or randomness.
+In which context you ask. The point is how to deal with problems that have some level of undertainty or randomness.
 Crucially, even with a incomplete understanding fo such problems, 
-some desicions are better than other to deal with these . This site aims to provide 
-materials that help us make such good decisions identify the 
-undertenties and randomness within our contemporary lifes. 
+some desicions are better than other to deal with these . This site aims to provide materials that help us make such good decisions identify the undertenties and randomness within our contemporary lifes. 
 
 To illustrate our this aim, let us consider the next
 don't be more or less known turkey tale:
