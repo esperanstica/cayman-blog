@@ -48,7 +48,7 @@ guide people towards our posture we prefer only to provide tools for
 individual to make inform decisions. When you detect a bias, reasoning problems,
 misconceptions or potential improvements we kinly beg us to make us aware of them. 
 
-Hope you have fun on this sites.Thanks for visiting us. 
+Hope you have fun on this sites. Thanks for visiting us. 
 
 
 
