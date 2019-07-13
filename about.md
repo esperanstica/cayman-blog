@@ -5,11 +5,11 @@ tagline: A few more words about this theme
 permalink: /about.html
 ---
 
-This non-profit organization aims to provide useful information to answer this question. In which context you ask. The point is how to deal with problems that have some level of undertainty or randomness. Crucially, even with a incomplete understanding fo such problems, some desicions are better than other to deal with these. This site aims to provide materials that help us make such good decisions identify the undertenties and randomness within our contemporary lifes.
+This non-profit organization aims to provide useful information to answer this question. In which context you ask. The point is how to deal with problems that have some level of undertainty or randomness. Crucially, even with a incomplete understanding fo such problems, some desicions are better than other to deal with these. This site to provide and discuss modern tools to make decisions, identify the undertenties and randomness within our contemporary lifes.
 
-To illustrate our this aim, let us consider the next don't be more or less known turkey tale:
+To illustrate our this goal, let us consider the classic tale:
 
-There was once a Turkey, a cautious one. Each day it checked if farmers show any signs of wanting to eat it to proceeed with its escape plan. As time passed by, it theorize it'll never happend as farmer were nice to it; one day they did eat it. End.
+There was once a Turkey, a cautious one. Each day it checked if farmers show any signs of wanting to eat it, to rush out elsewere. As time passed by, it theorize it'll never happend as farmer were nice to it; one day they did eat it. End.
 
 This tale nicely illustrates how a wrong strategy towards undertainty can hurt us. It is not hard to find similar stories at a personal level and beyond. For example stories about people behaving differently than what was expected, wars, finantial crisis, careless use of new technologies, health treatments, etc.
 
