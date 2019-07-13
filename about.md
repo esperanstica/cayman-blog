@@ -9,7 +9,7 @@ This non-profit organization aims to provide useful information to answer this q
 
 To illustrate our this goal, let us consider the classic tale:
 
-There was once a Turkey, a cautious one. Each day it checked if farmers show any signs of wanting to eat it, to rush out elsewere. As time passed by, it theorize it'll never happend as farmer were nice to it; one day they did eat it. End.
+There was once a Turkey, a cautious one. Each day it checked if farmers show signs of wanting to eat. As time passed by, it theorize it'll never happend as farmer were nice to it; one day they did eat it. End.
 
 This tale nicely illustrates how a wrong strategy towards undertainty can hurt us. It is not hard to find similar stories at a personal level and beyond. For example stories about people behaving differently than what was expected, wars, finantial crisis, careless use of new technologies, health treatments, etc.
 
