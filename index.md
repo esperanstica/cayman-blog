@@ -16,7 +16,7 @@ To illustrate our this aim, let us consider the next don't be more or less known
 
 There was once a Turkey, a cautious one. Each day it checked if farmers show any signs of wanting to eat it to proceeed with its escape plan. As time passed by, it theorize it'll never happend as farmer were nice to it; one day they did eat it. End.
 
-This tale nicely illustrates how a wrong strategy towards undertainty can hurt us. It is not hard to find similar situations at a personal level and beyond: people behaving differently than what was expected, wars, finantial crisis, consequences of bad use of technological developement, health treatments, etc.
+This tale nicely illustrates how a wrong strategy towards undertainty can hurt us. It is not hard to find similar stories at a personal level and beyond. For example stories about people behaving differently than what was expected, wars, finantial crisis, careless use of new technologies, health treatments, etc.
 
 On the contrary, sometimes there are strategies that make robust and even improve in the presence of the lack of 
 understanding! For example, it is good for family to have savings evendo if his understanding is that busssiness is going well!
