@@ -53,13 +53,23 @@ testing better have a complete look at this
 where you can find more complete look at 
 screening recommendations. 
 
-Although randomnized controlled experiments are 
-effective at controlling confoundings these are 
+Although, in medical adn social sciences, 
+ramdonized controlled experiments the most 
+effective controlling confoundings these are 
 not always possible. For ethica reasons, it would 
 be wrong to ask a treatment group to smoking (X) 
 to determine if this increases the risk of 
 diseases like lung cancer or heart attacks (Y). 
-Fortunately, 
+Several confunding influenciate such studies. 
+Examples are the sex, as men are more proponence 
+to heart attacks, and air pollution, which 
+increases in cities. To deal confoundings, such observationa 
+studies make comparisons separately women and men, yonger and old,
+and similarly for any other confounding. 
+
+
+
+
 
 
 
