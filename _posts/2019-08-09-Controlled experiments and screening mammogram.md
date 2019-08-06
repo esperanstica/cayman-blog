@@ -53,19 +53,34 @@ testing better have a complete look at this
 where you can find more complete look at 
 screening recommendations. 
 
-Although, in medical adn social sciences, 
+Although, in medical and social sciences, 
 ramdonized controlled experiments the most 
 effective controlling confoundings these are 
-not always possible. For ethica reasons, it would 
-be wrong to ask a treatment group to smoking (X) 
+not always possible. For ethical reasons, it would 
+be wrong to ask a treatment group to Tobacco smoking (X) 
 to determine if this increases the risk of 
 diseases like lung cancer or heart attacks (Y). 
-Several confunding influenciate such studies. 
-Examples are the sex, as men are more proponence 
+In this as similar cases, a observational 
+study can be performed, this is defined as a study
+where the investigators does not have control 
+over X. 
+
+Examples of coufoundings in the case of Tobacco smoking 
+are sex, as men are more proponence 
 to heart attacks, and air pollution, which 
 increases in cities. To deal confoundings, such observationa 
 studies make comparisons separately women and men, yonger and old,
 and similarly for any other confounding. 
+There is overwhelming evidence that in 
+the smoking (treatment groups) smokings increases 
+the risk of lung cancer. 
+
+Finally, a natural experiment is an observation 
+study,where assigmentto treatment or control 
+is as if randonized by nature (without the need
+of intervention). A great historical example 
+of casual inference is the epidemic of cholera. 
+
 
 
 
