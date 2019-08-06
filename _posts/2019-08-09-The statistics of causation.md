@@ -13,8 +13,8 @@ but rigorous understanding of what this means.
 
 Causal inferences can be based on  
 randomnized controlled experiemts, observational studies,
- or natural experiments. 
-The main problem in infering that the data 
+or natural experiments. The main problem 
+in infering that the data 
 shows that a treatment X, causes, causes an effect Y, is 
 that confounding factos Z, influencing 
 X and Y. Unless these are somehow taken into 
@@ -28,8 +28,7 @@ women tend to get tested more. Another one is pregnancy,
 apparently it has a protective effect, specially
 on earlly first pregnancy. In 1960s, mammography
 was developed to increases survival changes 
-of people with cancer. 
-Does mammography speeds up detection enough
+of people with cancer. Does mammography speeds up detection enough
 to matter? To answer this question the first large-scale
 ramdonized experiment was conducted, by the HIP Health
 insurance plan in New York).  62, 000 women (ages 40 to 64) 
