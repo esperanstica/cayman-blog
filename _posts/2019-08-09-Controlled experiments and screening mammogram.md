@@ -27,8 +27,20 @@ Confoundings in this case might that richer
 women tend to get tested more. Another one is pregnancy,
 apparently it has a protective effect, specially
 on earlly first pregnancy. In the early 1960s, mammography
-was develope. To test if it works a 
-randomnized controlled experiemts were conducted. 
+was develope. Does mammography speeds up detection enough
+to matter? To answer this question the first large-scale
+ramdonized experiment was conducted, by the HIP Health
+insurance plan in New York).  62, 000 women 
+of ages 40 to 64, were splitted in two equal 
+size groups, at random. This ensured that, up 
+to an small random error, the groups had a similar 
+number of mothers and non-mothers, there were large numbers
+of rich and poorer ones on each groups. Next, a 
+periodic mammography was offered to one group, the 
+treatment group,  and not the other, the control group. 
+
+
+
 
 
 
