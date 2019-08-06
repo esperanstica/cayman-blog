@@ -76,10 +76,33 @@ the smoking (treatment groups) smokings increases
 the risk of lung cancer. 
 
 Finally, a natural experiment is an observation 
-study,where assigmentto treatment or control 
+study, where assigment to treatment or control group
 is as if randonized by nature (without the need
-of intervention). A great historical example 
-of casual inference is the epidemic of cholera. 
+of intervention). A historical example 
+of casual inference is the London epidemy of cholera,
+in 1848. In 1855, about 20 years before Pasteur and
+Koch provided evidence that germs can cause diseases,
+John Snow performed used a natural experiment to provide 
+strong evidence that cholera is a waterborn infection
+disease.
+
+In a nutshell, Snow noticed that the houses in London 
+where peope die more often of the diseases drank 
+their water from the same sources, those which 
+contained sewage of a town exerts. Other house were
+the prevalence of deaths were lower drank water coming
+from companies with higher standards of water 
+purifying. Crucially, the preferences of water 
+were distributed as random. Water distribution and preferences 
+did not depend on social status, profession, etc. 
+
+To review details on the contents of this post 
+look at the book of D. A. Freedman on Statistical Models.  
+Hopefully this post give you a glance at the difficultly 
+of casual inference. 
+
+
+
 
 
 
