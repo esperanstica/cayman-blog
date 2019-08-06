@@ -41,15 +41,25 @@ of rich and poorer ones on each groups. Next, a
 periodic mammography was offered to one group, the 
 treatment group,  and not the other, the control group.
 
-Mammography has been widely adopted, because experiment like 
-this showed that, substancially, fewer women died 
-of breast cancer in the treatment group that in the control
-group. Warning: this does not mean that mammography screening 
-is equally effective for everyone nor that it is always 
-recommended! If you considering testing better have a complete look at this
-[Link]({{ https://www.health.harvard.edu/blog/rethinking-the-screening-mammogram-2018062814151 }}) ,
-where you can find more complete look at screening recommendations. 
+Mammography has been widely adopted, because 
+experiment like this showed that, substancially, 
+fewer women died of breast cancer in the treatment 
+group that in the control group. Warning: this 
+does not mean that mammography screening 
+is equally effective for everyone nor that 
+it is always recommended! If you considering 
+testing better have a complete look at this
+[Link]({{ https://www.health.harvard.edu/blog/rethinking-the-screening-mammogram-2018062814151 }}),
+where you can find more complete look at 
+screening recommendations. 
 
+Although randomnized controlled experiments are 
+effective at controlling confoundings these are 
+not always possible. For ethica reasons, it would 
+be wrong to ask a treatment group to smoking (X) 
+to determine if this increases the risk of 
+diseases like lung cancer or heart attacks (Y). 
+Fortunately, 
 
 
 
