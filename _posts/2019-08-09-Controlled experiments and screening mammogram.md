@@ -46,9 +46,12 @@ this showed that, substancially, fewer women died
 of breast cancer in the treatment group that in the control
 group. Warning: this does not mean that mammography screening 
 is equally effective for everyone nor that it is always 
-recommended! If you are over 36 better have a complete look
-at the current developements in this
-[Link]({{ https://www.health.harvard.edu/blog/rethinking-the-screening-mammogram-2018062814151 }}).
+recommended! If you considering testing better have a complete look at this
+[Link]({{ https://www.health.harvard.edu/blog/rethinking-the-screening-mammogram-2018062814151 }}) ,
+where you can find more complete look at screening recommendations. 
+
+
+
 
 
 
@@ -65,4 +68,3 @@ Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
 {% endcomment %}
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
