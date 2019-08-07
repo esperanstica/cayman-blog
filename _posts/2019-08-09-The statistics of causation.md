@@ -95,10 +95,27 @@ purifying. Crucially, the preferences of water
 were distributed as random. Water distribution and preferences 
 did not depend on social status, profession, etc. 
 
-To review details on the contents of this post 
-look at the book of D. A. Freedman on Statistical Models.  
-Hopefully this post give you a glance at the difficultly 
-of casual inference. 
+The purpose of this post showing that doing a 
+solid causal inference is actually a very difficult matter.
+The examples presented were taken from  
+the book of D. A. Freedman on Statistical Models. 
+This is only a glance at how a medical
+treatment is analise, a future and equally important
+post is that  every treatment should be judge not
+only on its effectiveness but accounting
+for a cost/benefit analysis! We should come at this point later. 
+More generally, as history shows, causal 
+inferences should only be trusted 
+if the cost of being wrong is not too high!
+Taken this into account is one of the ways
+of preventing financial crisis. We will talk 
+about this later in this post. 
+
+
+
+
+
+
 
 
 
